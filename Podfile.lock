@@ -1,0 +1,20 @@
+PODS:
+  - lottie-ios (3.2.2)
+  - SCLAlertView (0.8)
+
+DEPENDENCIES:
+  - lottie-ios
+  - SCLAlertView
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - SCLAlertView
+
+SPEC CHECKSUMS:
+  lottie-ios: a033bb989eea77d9f99cc4e2bbdd3788229761ad
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+
+PODFILE CHECKSUM: 5dbfca29be9c9ef2ab24079c6fdca05cee32e22d
+
+COCOAPODS: 1.10.1
